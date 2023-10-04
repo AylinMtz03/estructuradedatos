@@ -71,3 +71,15 @@ estructuras de datos.
 lineales de acuerdo al problema a resolver.
  Identificar las estructuras de datos estáticas y
 dinámicas de acuerdo al problema a resolver.
+conceptos:
+algoritmo:es cualquier cosa que funcione paso a paso, donde cada paso se pueda describir sin ambigüedad y sin hacer referencia a una computadora en particular, y además tiene un límite fijo en cuanto a la cantidad de datos que se pueden leer/escribir en un solo paso.
+estructura de datos:se pueden clasificar en dos grupos: 1. Estructuras lineales. Son aquellas que permiten almacenar y recuperar información en una secuencia lineal.
+datos:es la representación de una variable que puede ser cuantitativa o cualitativa que indica un valor que se le asigna a las cosas y se representa a través de una secuencia de símbolos, números o letras. Los datos describen hechos empíricos.
+informacion:es un conjunto organizado de datos relevantes para uno o más sujetos que extraen de él un conocimiento. Es decir, es una serie de conocimientos comunicados, compartidos o transmitidos y que constituyen por lo tanto algún tipo de mensaje.
+metadatos:son datos sobre datos. En otras palabras, es información que se usa para describir los datos contenidos en algo como una página web, documento o archivo. Otra forma de pensar en los metadatos es como una breve explicación o resumen de lo que son los datos.
+bigdata:hace referencia a los conjuntos tan grandes de datos que superan la capacidad de las aplicaciones informáticas tradicionales para tratar con ellos en un tiempo razonable.
+ciencia de datos:combina matemáticas y estadística, programación especializada, análisis avanzados, inteligencia artificial (IA) y machine learning con experiencia en distintas materias para descubrir información práctica oculta en los datos de una organización. Esta información se puede utilizar como guía para la toma de decisiones y la planificación estratégica.
+bases de datos:Una base de datos es una recopilación organizada de información o datos estructurados, que normalmente se almacena de forma electrónica en un sistema informático. Normalmente, una base de datos está controlada por un sistema de gestión de bases de datos (DBMS). En conjunto, los datos y el DBMS, junto con las aplicaciones asociadas a ellos, reciben el nombre de sistema de bases de datos, abreviado normalmente a simplemente base de datos.
+
+Los datos de los tipos más comunes de bases de datos en funcionamiento actualmente se suelen utilizar como estructuras de filas y columnas en una serie de tablas para aumentar la eficacia del procesamiento y la consulta de datos. Así, se puede acceder, gestionar, modificar, actualizar, controlar y organizar fácilmente los datos. La mayoría de las bases de datos utilizan un lenguaje de consulta estructurada (SQL) para escribir y consultar datos.
+
