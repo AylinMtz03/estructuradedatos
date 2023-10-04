@@ -1,0 +1,1 @@
+ itic3 = ["Aylin Martinez Santos", "xitlali Gonzalez", "Emmanuel de Jesus Esparza", "Maria Fernanda Pantoja Castillo"," Zuleyma de Jesus Manzano"]
