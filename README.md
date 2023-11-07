@@ -91,4 +91,11 @@ ESTRUCTURA DE DATOS DINAMICA: Se van generando o eliminando elementos al momento
 ESTRUCTURA DE DATOS NO-LINEALES: son aquellas en las que cada elemento puede estar enlazado a cualquier otro componente.
 
 Los datos de los tipos más comunes de bases de datos en funcionamiento actualmente se suelen utilizar como estructuras de filas y columnas en una serie de tablas para aumentar la eficacia del procesamiento y la consulta de datos. Así, se puede acceder, gestionar, modificar, actualizar, controlar y organizar fácilmente los datos. La mayoría de las bases de datos utilizan un lenguaje de consulta estructurada (SQL) para escribir y consultar datos.
-
+UNIDAD 3
+"ESTRUCTURAS NO LINEALES"
+Recursividad:Es una asociacion entre ocurrencias del mismo tipo de la entidad.Estos tipos de relaciones no se producen con frecuencia.
+Arboles: Es un tipo abstracto de datos (TDA) ampliamente usado que imita la estructura jerarquica de un arbol.
+Grafos:Es una plataforma especializada y de un solo proposito para crear y manipular grafos.
+UNIDAD 4
+"METODOS DE ORDENAMIENTO Y BUSQUEDA"
+Metodos de ordenamiento: Un método de ordenación es un algoritmo que permuta los datos de una estructura en una secuencia determinada. Los métodos de ordenación son especialmente útiles para que los datos que procesamos sean legibles por humanos y su procesamiento se agilice.
