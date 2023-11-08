@@ -99,3 +99,6 @@ Grafos:Es una plataforma especializada y de un solo proposito para crear y manip
 UNIDAD 4
 "METODOS DE ORDENAMIENTO Y BUSQUEDA"
 Metodos de ordenamiento: Un método de ordenación es un algoritmo que permuta los datos de una estructura en una secuencia determinada. Los métodos de ordenación son especialmente útiles para que los datos que procesamos sean legibles por humanos y su procesamiento se agilice.
+METODOS DE BUSQUEDA:La búsqueda es una operación de vital importancia cuando se manipulan grandes conjuntos de datos donde localizar un elemento no es tarea fácil.Para buscar un dato en un vector existen dos métodos: búsqueda secuencial o lineal y búsqueda binaria. El primero es más fácil de implementar pero puede tomar más tiempo, el segundo es más eficiente, pero requiere que el vector esté ordenado.
+
+RECUPERACION DE DATOS:La recuperación de información es un proceso de comunicación. Es un medio por el que los usuarios de un sistema o servicio de información pueden encontrar los documentos, registros, imágenes gráficas, o registros de sonido que satisfagan sus necesidades o intereses.
